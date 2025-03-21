@@ -37,11 +37,13 @@ GEMINI_API_KEY=your_gemini_api_key
 ```
 
 4. Run the project
-```
-node index.js
 ```sh
-Project Structure:
-.
+node index.js
+```
+
+
+### Project Structure:
+
 ├── node_modules
 ├── public
 │   ├── codemirror-5.65.18
